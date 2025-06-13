@@ -1,0 +1,64 @@
+{
+    "circles": [
+        {  
+            "lat": -7.255197,
+            "lng": -35.903378,
+            "options" :{
+            "strokeColor": "#FF0000",
+            "strokeOpacity": 0.8, 
+            "strokeWeight": 1,
+            "fillOpacity": 0.35,
+            "fillColor":"#FF0000"},
+            "cases": 24,
+            "radius": 5
+        },
+        {  
+            "lat": -7.246246,
+            "lng": -35.931530,
+            "options" :{
+                "strokeColor": "#FF0000",
+                "strokeOpacity": 0.8, 
+                "strokeWeight": 1,
+                "fillOpacity": 0.35,
+                "fillColor":"#FF0000"},
+            "cases": 17,
+            "radius": 2
+        },
+        {  
+            "lat": -7.229221,
+            "lng": -35.932943,
+            "options" :{
+                "strokeColor": "#FF0000",
+                "strokeOpacity": 0.8, 
+                "strokeWeight": 1,
+                "fillOpacity": 0.35,
+                "fillColor":"#FF0000"},
+            "cases": 34,
+            "radius": 3
+        },
+        {  
+            "lat": -7.225538, 
+            "lng": -35.892044,
+            "options" :{
+                "strokeColor": "#FF0000",
+                "strokeOpacity": 0.8, 
+                "strokeWeight": 1,
+                "fillOpacity": 0.35,
+                "fillColor":"#FF0000"},
+            "cases": 5,
+            "radius":6
+        },
+        {  
+            "lat": -7.209807,
+            "lng": -35.885629,
+            "options" :{
+                "strokeColor": "#FF0000",
+                "strokeOpacity": 0.8, 
+                "strokeWeight": 1,
+                "fillOpacity": 0.35,
+                "fillColor":"#FF0000"},
+            "cases": 11,
+            "radius": 4
+        }
+    ]
+}
